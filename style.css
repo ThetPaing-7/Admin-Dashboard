@@ -5,8 +5,8 @@
 }
 
 :root{
-    --menu-header-text-size: 25px;
-    --item-text-size: 20px;
+    --menu-header-text-size: 22px;
+    --item-text-size: 18px;
     --item-border: 3px solid slateblue;
     --sidebar-color : #F3D0D7;
     --header-color: #FFEFEF;
